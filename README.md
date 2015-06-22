@@ -2,7 +2,7 @@ db
 ===
 [![Build Status](https://travis-ci.org/goanywhere/db.svg?branch=master)](https://travis-ci.org/goanywhere/db) [![GoDoc](https://godoc.org/github.com/goanywhere/db?status.svg)](http://godoc.org/github.com/goanywhere/db)
 
-db is a database toolkit for the [Go](http://golang.org) programming language.
+Database toolkit for the [Go](http://golang.org) programming language.
 
 ## Getting Started
 
